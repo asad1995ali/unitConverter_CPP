@@ -23,11 +23,6 @@ double distance (int type, double value){
     double distConv[2]{};
     double distOut;
 
-
-    int dd = 10;
-    int dd = 20;
-
-
     return distOut;
 }
 
